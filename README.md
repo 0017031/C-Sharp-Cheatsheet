@@ -279,10 +279,8 @@ char x = 'x';        /* the variable x has the value 'x'. */
 ```
 
 ## Constants
-
-```c#
 Only the C# built-in types (excluding System.Object) may be declared as const
-
+```c#
 // const <data_type> <constant_name> = value;
 
 const double pi = 3.14159;  
